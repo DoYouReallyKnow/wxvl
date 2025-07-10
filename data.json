@@ -15897,5 +15897,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=7&sn=88d1aad32efce95a42eff434157efe29": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492090&idx=1&sn=d3730d112f227a6e2220302b76ba7ea4": "金盘移动图书馆图书管理系统 tabShow 信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=1&sn=fa39dab26fa7889aa2d78f6bfc2cc882": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=2&sn=e19607b9a1bbf6bc70c902e40f0de1d3": "Fortinet 修复FortiWeb 中的严重SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=2&sn=e19607b9a1bbf6bc70c902e40f0de1d3": "Fortinet 修复FortiWeb 中的严重SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507834&idx=1&sn=cb2a5fffe56db189abdb84f8cf483df4": "酌情处置 | Redis hyperloglog 命令远程代码执行漏洞利用条件较多",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486256&idx=1&sn=e695f0ac5253981b19b466c133364824": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=1&sn=b0353fe95161dbbe5a133dd5fa564d22": "【已复现】Git 远程代码执行漏洞(CVE-2025-48384)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597040&idx=2&sn=cdca0a3babe6585f09000478395ba7bf": "Windows 系统曝 wormable 级 RCE 漏洞，CVSS 评分 9.8",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI5NTgyMw==&mid=2247511266&idx=1&sn=b3ca1d6fb81cf3af35f5b93cc05e560e": "某制造业公司：30 分钟速通 2025 高危漏洞排查 + 推修实战"
 }
