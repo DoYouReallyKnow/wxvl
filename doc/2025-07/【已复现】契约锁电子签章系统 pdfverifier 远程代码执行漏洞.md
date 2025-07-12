@@ -1,7 +1,9 @@
 #  【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞  
- 长亭安全应急响应中心   2025-07-11 03:32  
+长亭应急响应  黑伞安全   2025-07-11 07:58  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FOh11C4BDicQOb3OCkynwqpfctBCGH3WxsLsXpcXiciazfZxjQktShM0NnZqrVpictrLNMxKWlEGOmJBe7jCsC47rA/640?wx_fmt=png&from=appmsg "")  
+#   
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/FOh11C4BDicQOb3OCkynwqpfctBCGH3WxsLsXpcXiciazfZxjQktShM0NnZqrVpictrLNMxKWlEGOmJBe7jCsC47rA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
 契约锁，是一个电子签章及印章管控平台，提供的电子文件具有与纸质文件一样的法律效力。  
@@ -107,7 +109,7 @@ Reproduction
 **04**  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FOh11C4BDicQOb3OCkynwqpfctBCGH3WxMdAkagltyXI64ZaOzcGoTpSgnXP5xOjFTzFDntjUZ50WuHEZXJAvRA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/FOh11C4BDicQOb3OCkynwqpfctBCGH3WxMdAkagltyXI64ZaOzcGoTpSgnXP5xOjFTzFDntjUZ50WuHEZXJAvRA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
   
@@ -167,4 +169,16 @@ Timeline
 第一时间找到我们：  
   
 邮箱：support@chaitin.com  
+  
+  
+#   
+  
+  
+  
+  
+  
+  
+****  
+****  
+  
   
