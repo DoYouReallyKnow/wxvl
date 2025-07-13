@@ -15992,5 +15992,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498069&idx=2&sn=90e786cab169095418610266a01f981a": "日本新日铁公司遭零日漏洞攻击致数据泄露",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611404&idx=4&sn=f4ff1d606e1d6f8ff505f82837b16d16": "Struts2全版本漏洞检测工具更新！V19.68",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492127&idx=1&sn=b5e66de4850a89116285d82851f0aaa8": "金蝶云星空 UserService.SaveUserPassport.common.kdsvc 远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486752&idx=1&sn=3825e538392c96bc757dfef7a363f795": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486752&idx=1&sn=3825e538392c96bc757dfef7a363f795": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告"
 }
