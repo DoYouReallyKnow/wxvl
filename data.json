@@ -16023,5 +16023,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=1&sn=dea8f8c3d8d3a0f176dc38b626477687": "立即修补：CVE-2025-25257概念验证漏洞可导致Fortinet FortiWeb远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492157&idx=1&sn=3c92664fd962247eef58f7b0f582a3a4": "渗透测试0day漏洞归属与外包源代码安全责任探讨。｜总第293周",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=1&sn=d95257c858f5e767abdabe510f3bac8d": "黑客正在利用 Wing FTP 服务器中的关键 RCE 漏洞(CVE-2025-47812)",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611411&idx=4&sn=9762968a003388f5aa39879f6a7f050c": "网络摄像头漏洞扫描工具！更新"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611411&idx=4&sn=9762968a003388f5aa39879f6a7f050c": "网络摄像头漏洞扫描工具！更新",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484073&idx=1&sn=10cba60d947ef1c2c9a8e764c6ef1076": "最近刷屏的“微信XSS漏洞”原理是什么？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483898&idx=1&sn=479ca01aab6c21e9d19081497f01a809": "孚盟云 Getlcon.aspx 接口存在SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=1&sn=79828c12688c4daf8723f32f2877dc05": "CVE-2025-5777｜Citrix NetScaler ADC和NetScaler Gateway内存泄漏漏洞（POC）"
 }
