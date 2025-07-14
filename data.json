@@ -16041,5 +16041,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=2&sn=3cc3fd02d7bb4c8d993138dce7afa3f6": "Wing FTP严重漏洞已遭在野利用",
     "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506665&idx=1&sn=d776fe3468df87da311794720e5bea05": "每周网安资讯 （7.8-7.14）|Ibm Concert_software存在将系统数据暴露到未授权控制的范围漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4ODg2MjQ5Mg==&mid=2247484142&idx=1&sn=b7b1520274e05a7c03c144e80761199c": "Fortinet FortiWeb SQL注入 CVE-2025-25257",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496126&idx=1&sn=4bbd11a17c961421e365773e0d458184": "CNVD漏洞周报2025年第26期"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496126&idx=1&sn=4bbd11a17c961421e365773e0d458184": "CNVD漏洞周报2025年第26期",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=2&sn=b06c26e63d5694cb6383efb350fb9f34": "【漏洞复现】CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535525&idx=2&sn=d21cfd9f295a3a180c57153067c0cf10": "CNNVD 紧急通报，微软爆多个安全漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483889&idx=1&sn=49db58752bf20b6e1a322dc5c9a9e614": "东胜物流软件GetDataListCA接口存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=3&sn=7a22c6935abca7bdf46bf166aa5bb5d8": "技嘉UEFI固件SMM漏洞使系统面临固件植入和持久控制风险"
 }
