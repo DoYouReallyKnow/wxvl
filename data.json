@@ -16016,5 +16016,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500966&idx=1&sn=88491b4e0826eff5e55d75c27ea04ec3": "微信出了XSS漏洞？？？点击自动发送消息",
     "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486502&idx=1&sn=244b3b8eb8dc4d46417d90ab4b5264a2": "微信爆任意打语音和任意发信息漏洞？",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070639&idx=4&sn=4e7c93291c55d089867addbbd0436070": "【安全圈】Trendyol 披露 Meta 存在漏洞：Prompt Injection 成功率高达 50%",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493250&idx=1&sn=cd317dbe8c78874a262dce46efcc5cc3": "WEB安全盲点 挖洞中的敏感文件泄漏漏洞与利用手法|挖洞技巧"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493250&idx=1&sn=cd317dbe8c78874a262dce46efcc5cc3": "WEB安全盲点 挖洞中的敏感文件泄漏漏洞与利用手法|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493065&idx=1&sn=a81d56cc98a5e170e167459c7a00a7fa": "仲夏狂欢！指定类型漏洞翻倍奖励、加成奖励buff叠满！",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486533&idx=1&sn=12d91dccb932998fec348e17760ef684": "工作中遇到的几个常见场景下的xss漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=3&sn=7db531b9433fd791810acb9fb8c3bdef": "Fortinet FortiWeb 面临全面接管风险 (CVE-2025-25257)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=1&sn=dea8f8c3d8d3a0f176dc38b626477687": "立即修补：CVE-2025-25257概念验证漏洞可导致Fortinet FortiWeb远程代码执行"
 }
