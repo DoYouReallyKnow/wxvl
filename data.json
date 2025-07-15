@@ -16071,5 +16071,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485108&idx=1&sn=5e17051f4252967b4072d091e4d81ddf": "远程命令执行、文件上传、SQL 注入……Jeecg 一站式漏洞神器揭秘",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503462&idx=1&sn=0f722394919e6b8af1e3bb654383e66c": "雷神众测漏洞周报2025.7.7-2025.7.13",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503607&idx=1&sn=44581e3d24968215d02fb7b63ed254d6": "安全热点周报：Fortinet 公开 FortiWeb 中的严重预身份验证 RCE 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484961&idx=1&sn=bfaf22c6ec6cb4e04c5ab3f6f05098dd": "软件依赖似套娃，漏洞修补路在哪？"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484961&idx=1&sn=bfaf22c6ec6cb4e04c5ab3f6f05098dd": "软件依赖似套娃，漏洞修补路在哪？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=1&sn=cfef3d7b85d52177a5027daf3e4fabf8": "【已复现】Linux Kernel AF_UNIX UAF漏洞(CVE-2025-38236)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324943&idx=1&sn=93d35c2bec5a8151f80c28ab1ae8258c": "20年历史漏洞可让黑客远程控制列车制动系统"
 }
