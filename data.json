@@ -16097,5 +16097,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523576&idx=2&sn=cae33dc0a4154ffe056c01f3975eb200": "ImageMagick存在栈缓冲溢出漏洞，可导致RCE",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=1&sn=aedd535f601272923435b2dcbc06a9f0": "【已复现】Fortinet FortiWeb存在SQL注入漏洞（CVE-2025-25257）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494758&idx=1&sn=799938b39cc81cae7a6738f86eb77758": "Yscan 是一款集 Web 资产扫描、图形化 Nuclei POC 管理、漏洞验证与数据整理于一体的实战型安全工具。",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531762&idx=1&sn=a08fcb7bff9afed48f07cc4dd51fa8df": "漏洞爆料！微软SharePoint又被高手秒杀，Pwn2Own单招就破防！"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531762&idx=1&sn=a08fcb7bff9afed48f07cc4dd51fa8df": "漏洞爆料！微软SharePoint又被高手秒杀，Pwn2Own单招就破防！",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzU0ODczOA==&mid=2247486946&idx=3&sn=1c613f08674533cd087ddd5f7e44e002": "技嘉主板存在RCE漏洞，POC∕EXP请私发我，谢谢"
 }
