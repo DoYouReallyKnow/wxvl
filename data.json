@@ -16116,5 +16116,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496130&idx=1&sn=f9bf39ffb23c2b16744cffcc11b43ccd": "关于Google Chrome V8存在类型混淆漏洞的安全公告",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494279&idx=1&sn=932e75f14dcf30d997a865d551100152": "CVE-2025-6554标志着谷歌在2025年修复的第五个被主动利用的Chrome零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247498061&idx=2&sn=ffc32316ce8cf9e9c0f235a248e8bcee": "SRC漏洞挖掘：别再盯着那些烂大街的姿势了！",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493493&idx=1&sn=b7596ba5e416cbb4fa3627f1f8cb1d0f": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493493&idx=1&sn=b7596ba5e416cbb4fa3627f1f8cb1d0f": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173841&idx=3&sn=c3cb03f8fe3770b9b6ce0283b205d676": "CNNVD通报Oracle多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463279&idx=1&sn=ed9a3d6766250120a7b315fdcbf9a117": "CNNVD关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485014&idx=1&sn=b1a1d176fc53260b695a2462ac585079": "【吃瓜】内推\"红队\"当内鬼 | 网传wps漏洞为Nday | HV奖励吃大粪",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526818&idx=1&sn=94387d1e5ab9647a7dd70aa9f62aa3f0": "VMware ESXi、Workstation、Fusion及Tools多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886119&idx=1&sn=04a2b85331e9310f8cd6ae41fdede5da": "攻防演练：如何防护0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=2&sn=45995d7633ae08c6ed2c67558e2810f8": "安卓旧系统 OTA 包分析与漏洞提权适配",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490445&idx=1&sn=d31f158d701b9c31fcc7c33cc05b2c61": "【高危漏洞预警】LaRecipe服务器端模板注入漏洞CVE-2025-53833",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=1&sn=ad59955ddfe083c98460da614db3e54e": "【风险通告】Oracle WebLogic Server存在未授权访问漏洞（CVE-2025-30762）"
 }
