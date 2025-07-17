@@ -16132,5 +16132,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488693&idx=1&sn=b67691800d32ebf2dc55f5bc0558137e": "汉王e脸通综合管理平台存在SQL注入漏洞 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=2&sn=c11ce042dbc5e02e25cdeaa2e8f4c5df": "【漏洞通告】VMware VMXNET3整数溢出漏洞(CVE-2025-41236)",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503612&idx=1&sn=ad04ed392ff95d7f165eeab36a14bac3": "Oracle 2025年7月补丁日多产品高危漏洞安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583835&idx=1&sn=2754957b43cf398a180399f4a359413c": "Citrix Bleed 2漏洞被网络犯罪分子利用进行攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496792&idx=1&sn=1a89dc1a57debe1bcc662fc35fb66c99": "中科天齐团队参加FSE 2025，提出基于多对象类型状态分析的重复漏洞检测新方法",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581312&idx=1&sn=16b534f5f8dc330cce051c4c5e419a78": "独家 | 360联合清华大学发布全球首份智能体安全报告，曝光20+漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245703&idx=2&sn=5b268c55fba13203ab8183247a139c63": "CNNVD | 关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489632&idx=1&sn=cfd0fe4074ceae03eff8238fbf7b26ce": "【相关分享】关于网传HVV中的WPS漏洞"
 }
