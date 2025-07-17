@@ -16124,5 +16124,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886119&idx=1&sn=04a2b85331e9310f8cd6ae41fdede5da": "攻防演练：如何防护0day漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=2&sn=45995d7633ae08c6ed2c67558e2810f8": "安卓旧系统 OTA 包分析与漏洞提权适配",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490445&idx=1&sn=d31f158d701b9c31fcc7c33cc05b2c61": "【高危漏洞预警】LaRecipe服务器端模板注入漏洞CVE-2025-53833",
-    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=1&sn=ad59955ddfe083c98460da614db3e54e": "【风险通告】Oracle WebLogic Server存在未授权访问漏洞（CVE-2025-30762）"
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=1&sn=ad59955ddfe083c98460da614db3e54e": "【风险通告】Oracle WebLogic Server存在未授权访问漏洞（CVE-2025-30762）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531773&idx=2&sn=87c094ebed1fc43d49cbe8426e57d36b": "探索 Node.js 中的零日漏洞：CVE-2025-27210",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=4&sn=202ab52532231d393da9f3e3e9320e01": "Node.js路径穿越与哈希拒绝服务攻击漏洞威胁Windows应用",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531794&idx=2&sn=12cf79e2129fed86722ef157f501769c": "mcp-remote 中存在严重 RCE 漏洞：CVE-2025-6514，威胁 LLM 客户端",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523583&idx=1&sn=f3695d751d9189ce3ff6b61f71cc9942": "谷歌紧急修复已遭利用的 Chrome 0day",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488693&idx=1&sn=b67691800d32ebf2dc55f5bc0558137e": "汉王e脸通综合管理平台存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=2&sn=c11ce042dbc5e02e25cdeaa2e8f4c5df": "【漏洞通告】VMware VMXNET3整数溢出漏洞(CVE-2025-41236)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503612&idx=1&sn=ad04ed392ff95d7f165eeab36a14bac3": "Oracle 2025年7月补丁日多产品高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码"
 }
