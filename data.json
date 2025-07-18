@@ -16172,5 +16172,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597375&idx=3&sn=932fa7865bd708b7031df174772567e5": "BIND 9 DNS解析软件漏洞，可能引发缓存投毒与拒绝服务攻击",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574036&idx=1&sn=d5ebf7d79a401f316d47e289ace1f87f": "【SRC实战】支付逻辑漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535593&idx=3&sn=58c2583baad262017873a8c73813ad77": "安利 | Yscan：一站式搞定 Web 扫描与漏洞验证！",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=2&sn=c7cc15872799f6b7c9dcee62f1ced6e6": "谷歌AI “Big Sleep” 提前阻止严重的SQLite 漏洞遭利用"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=2&sn=c7cc15872799f6b7c9dcee62f1ced6e6": "谷歌AI “Big Sleep” 提前阻止严重的SQLite 漏洞遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096397&idx=2&sn=e7fec28c9a1dbdde9d1dde9ddb08c222": "NVIDIA 容器工具包允许攻击者执行特权代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070714&idx=3&sn=bbdd11d7e9a7fce59dacff4dec6304db": "【安全圈】230万次下载面临威胁：LaRecipe漏洞可能让服务器被完全接管",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325149&idx=1&sn=a96d58d36336bf2c82920a7e1f872749": "NVIDIA Container Toolkit漏洞可导致权限提升任意代码执行"
 }
