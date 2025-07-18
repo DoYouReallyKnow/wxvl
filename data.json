@@ -16164,5 +16164,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486564&idx=1&sn=3c6d11aaa73f5a56d9dc96c0b1c03c73": "代码审计-ASP.NET项目-文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494291&idx=1&sn=d82033fb3b45f8ee834fa7a4aecc2221": "思科修复身份服务引擎中CVSS 10分高危漏洞CVE-2025-20337",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583845&idx=1&sn=c90ced34d21a579bc3a5cc0f1a4541ff": "谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483901&idx=1&sn=584c0ed15e48cd1b6b2844170a747f22": "【CVE-2024–31317】提权漏洞复现"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483901&idx=1&sn=584c0ed15e48cd1b6b2844170a747f22": "【CVE-2024–31317】提权漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488062&idx=1&sn=459cb7ef4a17d8e49db48010e6c6badf": "漏洞预警 | Linux sudo本地提权漏洞（CVE-2025-32462、CVE-2025-32463）",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492884&idx=1&sn=06c9c888b83ac5f3d08b8dc4cc2548e0": "【风险提示】VMware ESXi、Workstation、Fusion及Tools多个漏洞"
 }
