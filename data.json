@@ -16160,5 +16160,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485836&idx=1&sn=4b0f85e591199fb6b48f4f133b53af19": "shiro反序列化漏洞简介以及利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490037&idx=1&sn=cb9766e7c28a24dbd93e399d36d87709": "细节已披露：WPS文档中心和文档中台存在远程代码执行 RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDYwNTcyNA==&mid=2247488199&idx=1&sn=a9646cb8a380613ef867d22149fea182": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531828&idx=2&sn=f195adfac368a7d71856e3368b579eef": "CVE-2025-48799 的 PoC，是 Windows 更新服务中的特权提升漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531828&idx=2&sn=f195adfac368a7d71856e3368b579eef": "CVE-2025-48799 的 PoC，是 Windows 更新服务中的特权提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486564&idx=1&sn=3c6d11aaa73f5a56d9dc96c0b1c03c73": "代码审计-ASP.NET项目-文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494291&idx=1&sn=d82033fb3b45f8ee834fa7a4aecc2221": "思科修复身份服务引擎中CVSS 10分高危漏洞CVE-2025-20337",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583845&idx=1&sn=c90ced34d21a579bc3a5cc0f1a4541ff": "谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483901&idx=1&sn=584c0ed15e48cd1b6b2844170a747f22": "【CVE-2024–31317】提权漏洞复现"
 }
