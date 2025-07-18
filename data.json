@@ -16156,5 +16156,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487706&idx=1&sn=9349f46f0975d7d1ea8b8a818f6e839c": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=2&sn=b4484c612e2941a3be416a7542dd457d": "【高危漏洞预警】VMware产品多个高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325085&idx=3&sn=3fdc985551c6f7ef9efd22161d1894bc": "Windows Server 2025黄金dMSA漏洞使攻击者永久获取访问权限",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490163&idx=1&sn=b3f45daec1576c19d9cd94b0751a9bda": "记一次有趣的逻辑漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490163&idx=1&sn=b3f45daec1576c19d9cd94b0751a9bda": "记一次有趣的逻辑漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485836&idx=1&sn=4b0f85e591199fb6b48f4f133b53af19": "shiro反序列化漏洞简介以及利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490037&idx=1&sn=cb9766e7c28a24dbd93e399d36d87709": "细节已披露：WPS文档中心和文档中台存在远程代码执行 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDYwNTcyNA==&mid=2247488199&idx=1&sn=a9646cb8a380613ef867d22149fea182": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531828&idx=2&sn=f195adfac368a7d71856e3368b579eef": "CVE-2025-48799 的 PoC，是 Windows 更新服务中的特权提升漏洞"
 }
