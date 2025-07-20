@@ -16227,5 +16227,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485443&idx=1&sn=b0fc551b2ab431110e845fb515357e84": "中科汇联Easysite反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531904&idx=1&sn=a6e51b35fcb2e9e06f4f4895864fe053": "预授权 SQL 注入至 RCE - Fortinet FortiWeb Fabric 连接器 (CVE-2025-25257)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488338&idx=1&sn=eb889ea7d441b43d2c81ee29cc3715c0": "HW（2025-7-19）护网漏洞信息收集汇总",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=2&sn=04105f8ddc32460791073712282f5bbf": "【安全圈】黑客正在利用 Wing FTP 服务器的关键 RCE 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=2&sn=04105f8ddc32460791073712282f5bbf": "【安全圈】黑客正在利用 Wing FTP 服务器的关键 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=1&sn=050b8e30630112c924e35a27ee30ecd3": "【安全圈】赶快升级！微信Windows端安全漏洞曝光 黑客可执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490080&idx=1&sn=1513450719fa4525a473523cb43a55e8": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果"
 }
