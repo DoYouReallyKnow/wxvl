@@ -16236,5 +16236,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517015&idx=1&sn=cbce3ba912ffe6f93a78b4961dd09fee": "红队快速检索漏洞储备工具 -- VRST（7月16日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487355&idx=1&sn=9200bae9ae923d78620237011b33f376": "渗透测试水漏洞清单",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=1&sn=21b1f6fa50c3940fcc233309b4c86305": "Fortinet FortiWeb漏洞CVE-2025-25257在PoC发布数小时后遭利用",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484521&idx=1&sn=9ee8b714f11d357e001eb697832c9521": "AI 自主调用 BurpSuite 完成漏洞自动化检测"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484521&idx=1&sn=9ee8b714f11d357e001eb697832c9521": "AI 自主调用 BurpSuite 完成漏洞自动化检测",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489664&idx=1&sn=305ea1fb540232b04b6188e09fc1fe03": "未知 CVE 揭秘：通过 WebPart 属性反序列化实现 RCE (Remote Code Execution)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=2&sn=f472eeedc4d17f52b659a903246f212e": "CVE-2025-48799｜Windows Update 服务本地权限提升漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=3&sn=6afa641a28f4a78930bdf1a5e2b88b0f": "漏洞预警 | FoxCMS任意文件上传漏洞"
 }
