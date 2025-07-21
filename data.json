@@ -16239,5 +16239,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484521&idx=1&sn=9ee8b714f11d357e001eb697832c9521": "AI 自主调用 BurpSuite 完成漏洞自动化检测",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489664&idx=1&sn=305ea1fb540232b04b6188e09fc1fe03": "未知 CVE 揭秘：通过 WebPart 属性反序列化实现 RCE (Remote Code Execution)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=2&sn=f472eeedc4d17f52b659a903246f212e": "CVE-2025-48799｜Windows Update 服务本地权限提升漏洞（POC）",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=3&sn=6afa641a28f4a78930bdf1a5e2b88b0f": "漏洞预警 | FoxCMS任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=3&sn=6afa641a28f4a78930bdf1a5e2b88b0f": "漏洞预警 | FoxCMS任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611483&idx=4&sn=e411feca05ba6e1665dc387679d976c8": "存储桶配置漏洞检测浏览器插件"
 }
