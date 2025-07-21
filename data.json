@@ -16256,5 +16256,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MzUwNDEzNg==&mid=2247484305&idx=1&sn=74f8bcf6726c3f25573c3c11d5c7f338": "Golang 也能写出丝滑 GUI？试试 Wails 框架开发GUI EXP工具！",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=1&sn=28783f7f38aca937197c716460e77131": "CNVD漏洞周报2025年第27期",
     "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247783&idx=1&sn=60aa38bca36fb49150e537c868698a54": "原创 Paper | CitrixBleed 2 (CVE-2025-5777) 成因分析",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247549049&idx=1&sn=a9888999b1ca98221bbf60a15eb7564c": "企业最易遭遇的十大IT安全漏洞解析"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247549049&idx=1&sn=a9888999b1ca98221bbf60a15eb7564c": "企业最易遭遇的十大IT安全漏洞解析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=3&sn=da164a902b33bab2a35b77a492bae665": "7-Zip曝出两个可致内存损坏和拒绝服务的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486006&idx=1&sn=670efdd62c093c7f18dfd3058aab155e": "给开发工程师讲的log4j漏洞原理",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484302&idx=1&sn=42e0113f5e72ddc92f84826671500353": "【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490189&idx=1&sn=8931feffa6930193a9832388783f7688": "【漏洞情报】联想电脑管家存在远程命令执行漏洞 | 联想电脑管家RCE"
 }
